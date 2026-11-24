@@ -5,6 +5,7 @@
   <p>Projetos práticos, estudos e evolução contínua em tecnologia.</p>
   <p>
     <a href="https://github.com/brunosg24?tab=repositories"><img src="https://img.shields.io/badge/Explorar-projetos-1F6FEB?style=for-the-badge&logo=github&logoColor=white" alt="Explorar projetos" /></a>
+    <a href="https://www.linkedin.com/in/bruno-santos-de-lima-a48a26181/"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Bruno" /></a>
   </p>
 </div>
 
