@@ -21,7 +21,8 @@
 
 <table>
 <tr>
-<td width="25%" valign="top">
+<td width="25%" valign="top" align="center">
+<img src="https://raw.githubusercontent.com/brunosg24/brunosg24/main/assets/bruno-profile.jpg" width="170" alt="Foto de Bruno Santos de Lima" />
 <h3>Sobre</h3>
 Busco evoluir na área de tecnologia, com foco em cibersegurança e desenvolvimento, transformando conhecimento em soluções reais.
 <ul>
