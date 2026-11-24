@@ -1,85 +1,98 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/brunosg24/brunosg24/main/assets/profile-banner.svg" alt="Bruno — Developer Portfolio" width="100%" />
+  <img src="https://raw.githubusercontent.com/brunosg24/brunosg24/main/assets/profile-banner.svg" alt="Bruno Santos — Developer Portfolio" width="100%" />
 </div>
+
+<div align="center">
+  <h1>Bruno Santos de Lima</h1>
+  <p><strong>Estudante de Gestão da Tecnologia da Informação</strong></p>
+  <p>Curitiba — PR, Brasil</p>
+  <a href="https://www.linkedin.com/in/bruno-santos-de-lima-a48a26181/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/brunosg24?tab=repositories"><img src="https://img.shields.io/badge/GITHUB-PROJECTS-C99A3B?style=for-the-badge&logo=github&logoColor=111111" alt="GitHub projects" /></a>
+</div>
+
+---
 
 <table>
   <tr>
-    <td width="25%" align="center" valign="top">
-      <img src="https://github.com/brunosg24.png" alt="Foto de perfil de Bruno" width="180" />
-      <h2>brunosg24</h2>
-      <p><strong>Bruno Santos de Lima</strong></p>
-      <p>Estudante de Gestão de TI</p>
-      <p>Curitiba — PR, Brasil</p>
-      <a href="https://www.linkedin.com/in/bruno-santos-de-lima-a48a26181/">
-        <img src="https://img.shields.io/badge/Conectar-no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Conectar no LinkedIn" />
-      </a>
-      <br/><br/>
-      <a href="https://github.com/brunosg24?tab=repositories">
-        <img src="https://img.shields.io/badge/Explorar-repositórios-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Explorar repositórios" />
-      </a>
+    <td width="28%" align="center" valign="middle">
+      <img src="https://github.com/brunosg24.png" width="190" alt="Avatar do GitHub de Bruno" />
+      <h3>@brunosg24</h3>
+      <p><sub>PORTFÓLIO DE DESENVOLVIMENTO</sub></p>
     </td>
-    <td valign="top">
-      <h1>Desenvolver. Aprender. Evoluir.</h1>
-      <p><strong>Transformando ideias em soluções através da tecnologia.</strong></p>
-      <p>Sou estudante de Gestão da Tecnologia da Informação e estou direcionando minha carreira para tecnologia. Tenho interesse em <strong>cibersegurança, banco de dados e desenvolvimento back-end</strong>.</p>
-      <p>Meu foco é aprender construindo: desenvolver projetos, testar ideias e documentar minha evolução com transparência sobre o estágio de cada trabalho.</p>
-      <h3>Áreas de interesse</h3>
+    <td valign="middle">
+      <h2>Desenvolver. Aprender. Evoluir.</h2>
+      <p>Transformando ideias em soluções através da tecnologia.</p>
+      <p>Estou direcionando minha carreira para tecnologia, com interesse em <strong>cibersegurança, banco de dados e desenvolvimento back-end</strong>. Meu foco é aprender na prática, construir projetos e documentar cada evolução com transparência.</p>
       <p>
-        <img src="https://img.shields.io/badge/Cibersegurança-Em%20estudo-173B62?style=flat-square&logo=owasp&logoColor=white" alt="Cibersegurança" />
-        <img src="https://img.shields.io/badge/Banco%20de%20Dados-Em%20estudo-315C72?style=flat-square&logo=postgresql&logoColor=white" alt="Banco de Dados" />
-        <img src="https://img.shields.io/badge/Back--end-Prática-245B86?style=flat-square&logo=fastapi&logoColor=white" alt="Back-end" />
+        <img src="https://img.shields.io/badge/CIBERSEGURANÇA-EM%20ESTUDO-173B62?style=flat-square&logo=owasp&logoColor=white" alt="Cibersegurança" />
+        <img src="https://img.shields.io/badge/BANCO%20DE%20DADOS-EM%20ESTUDO-315C72?style=flat-square&logo=postgresql&logoColor=white" alt="Banco de dados" />
+        <img src="https://img.shields.io/badge/BACK--END-PRÁTICA-245B86?style=flat-square&logo=fastapi&logoColor=white" alt="Back-end" />
       </p>
     </td>
   </tr>
 </table>
-
----
 
 ## Projetos em destaque
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/brunosg24/bruno-style-store">
-        <img src="https://raw.githubusercontent.com/brunosg24/bruno-style-store/main/assets/cover.svg" alt="Bruno Style Store" width="100%" />
-      </a>
-      <h3>Bruno Style Store</h3>
-      <p>Protótipo de e-commerce de moda masculina com interface responsiva, catálogo, filtros, carrinho com armazenamento local e fluxo demonstrativo de pedido via WhatsApp.</p>
-      <p><sub><strong>Tecnologias:</strong> HTML · CSS · JavaScript</sub></p>
-      <p><sub><strong>Etapa:</strong> Protótipo front-end</sub></p>
-      <a href="https://github.com/brunosg24/bruno-style-store">Ver repositório →</a>
+      <a href="https://github.com/brunosg24/bruno-style-store"><img src="https://raw.githubusercontent.com/brunosg24/bruno-style-store/main/assets/cover.svg" alt="Bruno Style Store — identidade preto e dourado" width="100%" /></a>
+      <h3>01 · Bruno Style Store</h3>
+      <p>Protótipo de e-commerce de moda masculina com catálogo, filtros, carrinho em armazenamento local e fluxo demonstrativo de pedido via WhatsApp.</p>
+      <p><sub><strong>HTML · CSS · JavaScript</strong> &nbsp;|&nbsp; Protótipo front-end</sub></p>
+      <a href="https://github.com/brunosg24/bruno-style-store">ACESSAR PROJETO →</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/brunosg24/bruno-robo-day-trade">
-        <img src="https://raw.githubusercontent.com/brunosg24/bruno-robo-day-trade/main/assets/cover.svg" alt="Market Automation Lab" width="100%" />
-      </a>
-      <h3>Market Automation Lab</h3>
-      <p>Estrutura inicial de API em Python com FastAPI, organizada para explorar conceitos de back-end e automação.</p>
-      <p><sub><strong>Tecnologias:</strong> Python · FastAPI</sub></p>
-      <p><sub><strong>Etapa:</strong> Estrutura inicial</sub></p>
-      <a href="https://github.com/brunosg24/bruno-robo-day-trade">Ver repositório →</a>
+      <a href="https://github.com/brunosg24/bruno-robo-day-trade"><img src="https://raw.githubusercontent.com/brunosg24/bruno-robo-day-trade/main/assets/cover.svg" alt="Market Automation Lab — identidade verde e azul" width="100%" /></a>
+      <h3>02 · Market Automation Lab</h3>
+      <p>Estrutura inicial de API em Python com FastAPI para explorar conceitos de back-end e automação.</p>
+      <p><sub><strong>Python · FastAPI</strong> &nbsp;|&nbsp; Estrutura inicial</sub></p>
+      <a href="https://github.com/brunosg24/bruno-robo-day-trade">ACESSAR PROJETO →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/brunosg24/pizzaira-imporio"><img src="https://raw.githubusercontent.com/brunosg24/pizzaira-imporio/main/assets/cover.svg" alt="Pizzaria Império — identidade laranja e dourado" width="100%" /></a>
+      <h3>03 · Pizzaria Império</h3>
+      <p>Conceito de cardápio digital e experiência de pedidos para uma pizzaria.</p>
+      <p><sub><strong>Projeto conceitual</strong> &nbsp;|&nbsp; Em planejamento</sub></p>
+      <a href="https://github.com/brunosg24/pizzaira-imporio">ACESSAR PROJETO →</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/brunosg24/loja-de-roupa-masculina"><img src="https://raw.githubusercontent.com/brunosg24/loja-de-roupa-masculina/main/assets/cover.svg" alt="Atelier Menswear — identidade lavanda e verde" width="100%" /></a>
+      <h3>04 · Atelier Menswear</h3>
+      <p>Conceito de e-commerce de moda masculina, com identidade visual própria.</p>
+      <p><sub><strong>Projeto conceitual</strong> &nbsp;|&nbsp; Em planejamento</sub></p>
+      <a href="https://github.com/brunosg24/loja-de-roupa-masculina">ACESSAR PROJETO →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/brunosg24/afiliado.store"><img src="https://raw.githubusercontent.com/brunosg24/afiliado.store/main/assets/cover.svg" alt="Affiliate Store — identidade ciano e roxo" width="100%" /></a>
+      <h3>05 · Affiliate Store</h3>
+      <p>Conceito de vitrine digital para descoberta de produtos e divulgação por links de afiliados.</p>
+      <p><sub><strong>Projeto conceitual</strong> &nbsp;|&nbsp; Em planejamento</sub></p>
+      <a href="https://github.com/brunosg24/afiliado.store">ACESSAR PROJETO →</a>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3>PRÓXIMO CAPÍTULO</h3>
+      <p>Novos projetos, novas tecnologias e evolução contínua.</p>
+      <p><a href="https://github.com/brunosg24?tab=repositories">EXPLORAR TODOS OS REPOSITÓRIOS →</a></p>
     </td>
   </tr>
 </table>
 
-## Ideias e projetos em planejamento
-
-| Projeto | Descrição | Etapa |
-|---|---|---|
-| [Pizzaria Império](https://github.com/brunosg24/pizzaira-imporio) | Conceito de cardápio digital e experiência de pedidos. | Planejamento |
-| [Loja de Roupa Masculina](https://github.com/brunosg24/loja-de-roupa-masculina) | Conceito de e-commerce de moda masculina. | Planejamento |
-| [Affiliate Store](https://github.com/brunosg24/afiliado.store) | Conceito de vitrine digital para produtos com links de afiliados. | Planejamento |
-
-## Tecnologias e ferramentas
+## Stack & ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode,fastapi,postgresql" alt="Tecnologias e ferramentas em estudo e utilização" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode,fastapi,postgresql" alt="Python, HTML, CSS, JavaScript, Git, GitHub, VS Code, FastAPI e PostgreSQL" />
 </div>
 
 ---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/bruno-santos-de-lima-a48a26181/">LinkedIn</a> ·
-  <a href="https://github.com/brunosg24?tab=repositories">Repositórios</a>
-  <p><i>Aprendizado contínuo, prática constante e evolução em cada projeto.</i></p>
+  <a href="https://www.linkedin.com/in/bruno-santos-de-lima-a48a26181/">LINKEDIN</a> &nbsp;·&nbsp;
+  <a href="https://github.com/brunosg24?tab=repositories">REPOSITÓRIOS</a>
+  <p><sub>APRENDIZADO CONTÍNUO · PRÁTICA CONSTANTE · EVOLUÇÃO EM CADA PROJETO</sub></p>
 </div>
