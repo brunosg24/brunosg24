@@ -1,11 +1,10 @@
 <!-- PROFILE HEADER -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/brunosg24/bruno-style-store/main/assets/cover.svg" alt="Bruno — Developer Portfolio" width="100%" />
+  <img src="https://raw.githubusercontent.com/brunosg24/brunosg24/main/assets/profile-banner.svg" alt="Bruno — Developer Portfolio" width="100%" />
   <h1>Olá, eu sou Bruno 👋</h1>
   <p><strong>Estudante de Gestão da Tecnologia da Informação</strong></p>
   <p>Construindo projetos, desenvolvendo habilidades e evoluindo na área de tecnologia.</p>
   <p>
-    <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://github.com/brunosg24"><img src="https://img.shields.io/badge/GitHub-Repositórios-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   </p>
 </div>
@@ -91,7 +90,7 @@ Projetos práticos e ideias em desenvolvimento. Cada repositório apresenta seu 
 ## Tecnologias e ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode,fastapi,sql" alt="Tecnologias e ferramentas em estudo e utilização" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode,fastapi,postgresql" alt="Tecnologias e ferramentas em estudo e utilização" />
 </div>
 
 ---
