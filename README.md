@@ -1,11 +1,10 @@
-<!-- PROFILE HEADER -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/brunosg24/brunosg24/main/assets/profile-banner.svg" alt="Bruno — Developer Portfolio" width="100%" />
-  <h1>Olá, eu sou Bruno 👋</h1>
+  <h1>Olá, eu sou Bruno</h1>
   <p><strong>Estudante de Gestão da Tecnologia da Informação</strong></p>
-  <p>Construindo projetos, desenvolvendo habilidades e evoluindo na área de tecnologia.</p>
+  <p>Projetos práticos, estudos e evolução contínua em tecnologia.</p>
   <p>
-    <a href="https://github.com/brunosg24"><img src="https://img.shields.io/badge/GitHub-Repositórios-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://github.com/brunosg24?tab=repositories"><img src="https://img.shields.io/badge/Explorar-projetos-1F6FEB?style=for-the-badge&logo=github&logoColor=white" alt="Explorar projetos" /></a>
   </p>
 </div>
 
@@ -13,76 +12,68 @@
 
 ## Sobre mim
 
-Sou estudante de Gestão da Tecnologia da Informação e estou direcionando minha carreira para a área de tecnologia. Tenho interesse especial em **cibersegurança, banco de dados e desenvolvimento back-end**.
+Sou estudante de Gestão da Tecnologia da Informação e estou direcionando minha carreira para tecnologia. Tenho interesse em **cibersegurança, banco de dados e desenvolvimento back-end**.
 
-Gosto de aprender na prática, transformar ideias em projetos e aprimorar minhas habilidades por meio de estudos e experimentação.
+Meu foco é aprender construindo: desenvolver projetos, testar ideias e documentar minha evolução com transparência sobre o estágio de cada trabalho.
 
-## Áreas de interesse
+## Foco de estudos
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Cibersegurança-Estudos-243B53?style=for-the-badge&logo=owasp&logoColor=white" alt="Cibersegurança" />
-  <img src="https://img.shields.io/badge/Banco%20de%20Dados-Estudos-315C72?style=for-the-badge&logo=postgresql&logoColor=white" alt="Banco de dados" />
-  <img src="https://img.shields.io/badge/Back--end-Desenvolvimento-3B526B?style=for-the-badge&logo=fastapi&logoColor=white" alt="Back-end" />
+  <img src="https://img.shields.io/badge/Cibersegurança-Em%20estudo-243B53?style=for-the-badge&logo=owasp&logoColor=white" alt="Cibersegurança em estudo" />
+  <img src="https://img.shields.io/badge/Banco%20de%20Dados-Em%20estudo-315C72?style=for-the-badge&logo=postgresql&logoColor=white" alt="Banco de dados em estudo" />
+  <img src="https://img.shields.io/badge/Back--end-Prática-3B526B?style=for-the-badge&logo=fastapi&logoColor=white" alt="Back-end em prática" />
 </div>
 
-## Projetos em destaque
+## Projetos
 
-Projetos práticos e ideias em desenvolvimento. Cada repositório apresenta seu próprio contexto, tecnologias e estágio atual.
+### Projetos com implementação
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="56%" valign="top">
       <a href="https://github.com/brunosg24/bruno-style-store">
-        <img src="https://raw.githubusercontent.com/brunosg24/bruno-style-store/main/assets/cover.svg" alt="Bruno Style Store" width="100%" />
+        <img src="https://raw.githubusercontent.com/brunosg24/bruno-style-store/main/assets/cover.svg" alt="Identidade visual do projeto Bruno Style Store" width="100%" />
       </a>
       <h3>Bruno Style Store</h3>
-      <p>Protótipo de e-commerce de moda masculina, com catálogo, categorias e carrinho utilizando armazenamento local.</p>
-      <p><sub>HTML · CSS · JavaScript</sub></p>
-      <a href="https://github.com/brunosg24/bruno-style-store">Ver repositório →</a>
+      <p>Protótipo de e-commerce de moda masculina. Possui interface responsiva, catálogo de produtos, filtros por categoria, carrinho com armazenamento local e fluxo demonstrativo de pedido via WhatsApp.</p>
+      <p><sub><strong>Stack:</strong> HTML · CSS · JavaScript</sub></p>
+      <p><sub><strong>Status:</strong> Protótipo front-end</sub></p>
+      <a href="https://github.com/brunosg24/bruno-style-store">Acessar código e detalhes →</a>
     </td>
-    <td width="50%" valign="top">
+    <td width="44%" valign="top">
       <a href="https://github.com/brunosg24/bruno-robo-day-trade">
-        <img src="https://raw.githubusercontent.com/brunosg24/bruno-robo-day-trade/main/assets/cover.svg" alt="Market Automation Lab" width="100%" />
+        <img src="https://raw.githubusercontent.com/brunosg24/bruno-robo-day-trade/main/assets/cover.svg" alt="Identidade visual do projeto Market Automation Lab" width="100%" />
       </a>
       <h3>Market Automation Lab</h3>
-      <p>Estrutura inicial de uma API com Python e FastAPI para explorar conceitos de automação e organização de back-end.</p>
-      <p><sub>Python · FastAPI</sub></p>
-      <a href="https://github.com/brunosg24/bruno-robo-day-trade">Ver repositório →</a>
+      <p>Estrutura inicial de API em Python com FastAPI, organizada para explorar conceitos de back-end e automação.</p>
+      <p><sub><strong>Stack:</strong> Python · FastAPI</sub></p>
+      <p><sub><strong>Status:</strong> Estrutura inicial</sub></p>
+      <a href="https://github.com/brunosg24/bruno-robo-day-trade">Acessar código e detalhes →</a>
     </td>
   </tr>
+</table>
+
+### Ideias e projetos em planejamento
+
+<table>
   <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/brunosg24/pizzaira-imporio">
-        <img src="https://raw.githubusercontent.com/brunosg24/pizzaira-imporio/main/assets/cover.svg" alt="Pizzaria Império" width="100%" />
-      </a>
+    <td width="33%" valign="top">
       <h3>Pizzaria Império</h3>
-      <p>Conceito de cardápio digital para uma pizzaria, com proposta de organização da experiência de pedidos.</p>
-      <p><sub>Planejamento de produto</sub></p>
+      <p>Conceito de cardápio digital para organizar produtos e experiência de pedidos.</p>
+      <sub>Planejamento · Produto digital</sub><br/>
       <a href="https://github.com/brunosg24/pizzaira-imporio">Ver repositório →</a>
     </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/brunosg24/loja-de-roupa-masculina">
-        <img src="https://raw.githubusercontent.com/brunosg24/loja-de-roupa-masculina/main/assets/cover.svg" alt="Atelier Menswear" width="100%" />
-      </a>
+    <td width="33%" valign="top">
       <h3>Loja de Roupa Masculina</h3>
-      <p>Concepção de uma loja virtual de moda masculina, estruturando a ideia e os recursos do produto.</p>
-      <p><sub>Planejamento de produto</sub></p>
+      <p>Conceito de loja virtual de moda masculina, com definição de recursos e estrutura do produto.</p>
+      <sub>Planejamento · E-commerce</sub><br/>
       <a href="https://github.com/brunosg24/loja-de-roupa-masculina">Ver repositório →</a>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/brunosg24/afiliado.store">
-        <img src="https://raw.githubusercontent.com/brunosg24/afiliado.store/main/assets/cover.svg" alt="Affiliate Store" width="100%" />
-      </a>
+    <td width="33%" valign="top">
       <h3>Affiliate Store</h3>
       <p>Conceito de vitrine digital para descoberta de produtos e divulgação por links de afiliados.</p>
-      <p><sub>Planejamento de produto</sub></p>
+      <sub>Planejamento · Afiliados</sub><br/>
       <a href="https://github.com/brunosg24/afiliado.store">Ver repositório →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Em evolução</h3>
-      <p>Novos projetos e estudos serão adicionados conforme avançarem. O objetivo é manter este espaço atualizado com experiências práticas e aprendizados reais.</p>
     </td>
   </tr>
 </table>
@@ -96,6 +87,5 @@ Projetos práticos e ideias em desenvolvimento. Cada repositório apresenta seu 
 ---
 
 <div align="center">
-  <p><i>Aprendizado contínuo. Prática constante. Evolução em cada projeto.</i></p>
-  <sub>Obrigado por visitar meu perfil.</sub>
+  <p><i>Aprendizado contínuo, prática constante e evolução em cada projeto.</i></p>
 </div>
