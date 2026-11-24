@@ -1,23 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="440" viewBox="0 0 1400 440" role="img" aria-labelledby="title desc">
-<title id="title">Bruno Santos de Lima — Developer Portfolio</title>
-<desc id="desc">Banner de portfólio em preto e dourado, com identidade visual minimalista e elementos geométricos de tecnologia.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="360" viewBox="0 0 1600 360" role="img" aria-labelledby="t d">
+<title id="t">Bruno Santos de Lima — Tecnologia e Segurança</title><desc id="d">Banner azul escuro com circuitos, notebook e escudo digital.</desc>
 <defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#08090c"/><stop offset=".58" stop-color="#15130e"/><stop offset="1" stop-color="#090a0d"/></linearGradient>
-  <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f6d98a"/><stop offset=".5" stop-color="#c99a3b"/><stop offset="1" stop-color="#8f6724"/></linearGradient>
-  <radialGradient id="glow"><stop stop-color="#d6a84b" stop-opacity=".22"/><stop offset="1" stop-color="#d6a84b" stop-opacity="0"/></radialGradient>
-  <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#f5e6c2" stroke-opacity=".045"/></pattern>
+<linearGradient id="b" x2="1" y2="1"><stop stop-color="#020914"/><stop offset=".55" stop-color="#061b32"/><stop offset="1" stop-color="#03101f"/></linearGradient>
+<linearGradient id="c"><stop stop-color="#0878d1"/><stop offset="1" stop-color="#25c7ff"/></linearGradient>
+<radialGradient id="g"><stop stop-color="#0789f8" stop-opacity=".4"/><stop offset="1" stop-color="#0789f8" stop-opacity="0"/></radialGradient>
+<pattern id="p" width="38" height="38" patternUnits="userSpaceOnUse"><path d="M38 0H0V38" fill="none" stroke="#1c8bd1" stroke-opacity=".14"/></pattern>
 </defs>
-<rect width="1400" height="440" rx="22" fill="url(#bg)"/><rect width="1400" height="440" rx="22" fill="url(#grid)"/>
-<circle cx="1110" cy="220" r="360" fill="url(#glow)"/>
-<g fill="none" stroke="url(#gold)" stroke-width="2">
-  <path d="M1010 70h180l90 90v150l-90 90h-180l-90-90V160z" opacity=".45"/>
-  <path d="M1055 112h130l65 65v96l-65 65h-130l-65-65v-96z" opacity=".75"/>
-  <path d="M1095 170l-38 48 38 48M1165 170l38 48-38 48M1142 150l-28 138" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
-</g>
-<g fill="#e8c16b"><circle cx="1010" cy="70" r="5"/><circle cx="1280" cy="160" r="5"/><circle cx="1190" cy="400" r="5"/></g>
-<text x="92" y="108" fill="#d9b45e" font-family="Arial,sans-serif" font-size="18" font-weight="700" letter-spacing="5">PORTFÓLIO • TECNOLOGIA</text>
-<text x="86" y="218" fill="#f8f5ed" font-family="Arial,sans-serif" font-size="76" font-weight="800">BRUNO SANTOS</text>
-<text x="92" y="273" fill="#c9c3b7" font-family="Arial,sans-serif" font-size="25">Gestão de TI · Desenvolvimento · Cibersegurança</text>
-<path d="M92 315h390" stroke="url(#gold)" stroke-width="4" stroke-linecap="round"/>
-<text x="92" y="362" fill="#a9a295" font-family="Arial,sans-serif" font-size="17" letter-spacing="3">APRENDER  /  CONSTRUIR  /  EVOLUIR</text>
+<rect width="1600" height="360" fill="url(#b)"/><rect width="1600" height="360" fill="url(#p)"/><circle cx="1250" cy="170" r="390" fill="url(#g)"/>
+<g fill="none" stroke="#087ac5" stroke-width="3" opacity=".55"><path d="M0 60h170l50 50h100M0 280h220l55-55h130M1320 35h120l50 50h110M1290 320h130l55-55h125"/><path d="M40 0v75l55 55M1510 0v75l-45 45M1480 360v-60l60-60"/></g>
+<g fill="none" stroke="url(#c)" stroke-width="3"><rect x="1120" y="42" width="190" height="250" rx="18" opacity=".7"/><path d="M1215 105l-42 18v45c0 42 22 70 42 82 20-12 42-40 42-82v-45z" fill="#0878d1" fill-opacity=".16"/><path d="M1197 170v-16a18 18 0 0136 0v16m-43 0h50v40h-50z"/><circle cx="1215" cy="188" r="5" fill="#25c7ff"/></g>
+<g transform="translate(820 108)"><path d="M0 0h230l-14 125H18z" fill="#02070d" stroke="#1689d6" stroke-width="3"/><path d="M18 18h194M18 34h120M18 50h160M18 66h95M18 82h145" stroke="#27a9f0" stroke-width="4" opacity=".7"/><path d="M-30 132h290l-35 22H5z" fill="#0c3150" stroke="#1689d6" stroke-width="2"/></g>
+<g fill="#25baff"><circle cx="760" cy="70" r="4"/><circle cx="1060" cy="300" r="4"/><circle cx="1400" cy="160" r="4"/></g>
+<text x="90" y="92" fill="#45baff" font-family="Arial,sans-serif" font-size="20" font-weight="700" letter-spacing="5">DESENVOLVIMENTO · SEGURANÇA · INOVAÇÃO</text>
+<text x="88" y="177" fill="#ffffff" font-family="Arial,sans-serif" font-size="58" font-weight="800">Construindo soluções</text>
+<text x="90" y="236" fill="#e2f3ff" font-family="Arial,sans-serif" font-size="48" font-weight="700">com <tspan fill="#39baff">tecnologia</tspan>, foco e propósito.</text>
+<text x="92" y="292" fill="#a9c8df" font-family="Arial,sans-serif" font-size="20">Gestão de TI  ·  Cibersegurança  ·  Desenvolvimento</text>
 </svg>
